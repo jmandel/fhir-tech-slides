@@ -1,4 +1,4 @@
-# FHIR / SMART / Tech + Policy / Slides
+# FHIR / SMART / tech + tolicy — decks and docks
 
 
 * **[SMART on FHIR](https://github.com/jmandel/fhir-tech-slides/blob/master/SMART%20Tutorial%20-%20Dev%20Days.pdf)** — App platform for healthcare
